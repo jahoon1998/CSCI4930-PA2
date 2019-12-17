@@ -8,7 +8,7 @@ perform dimensionality reduction of the given dataset. Then, train a linear regr
 reduced-dimension dataset to learn their age.
 
 ## Backgrounds on PCA
-<center><img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="40%"></img></center>
+            <img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="40%"></img>
 Problems arise when performing learning in a higher-dimensional space due to the phenomenon known
 as “Curse of the dimensionality” [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). 
 Significant improvements can be achieved by first mapping the data into a lower-dimensional space. And you
