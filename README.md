@@ -51,7 +51,25 @@ example: the PCA library in sklearn. However, you can use library functions to c
 eigenvalues and eigenvectors of a square matrix.
 
 ### Step 4
+Draw a scree-plot to choose a best value for K that denotes how many principal components to
+retain.
 
+### Step 5
+Show the top 20 ghosts (i.e., eigenfaces) in a 10x10 grid.
+
+### Step 6
+Considering the chosen K value above, project the training and test images on to the eigenfaces
+to reduce the dimensionality.
+
+### Step 7
+Perform Stochastic gradient descent (SGD) based linear regression on the training dataset to
+learn “age”. Please do a trial-and-error search to tune the hyper-parameters of the SGD based
+linear regression (e.g., number of epochs, learning rate), and make a note why you select a
+specific set of hyper-parameters.
+
+### Step 8
+Predict the test dataset (from step 2) based on the learned model in step 7, and report Root
+Mean Square Error (RMSE).
 
 
 
