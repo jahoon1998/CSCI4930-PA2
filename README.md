@@ -8,6 +8,7 @@ perform dimensionality reduction of the given dataset. Then, train a linear regr
 reduced-dimension dataset to learn their age.
 
 ## Backgrounds on PCA
+<img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="40%" style="display: block; margin-left: auto; margin-right: auto;"></img>
 Problems arise when performing learning in a higher-dimensional space due to the phenomenon known
 as “Curse of the dimensionality” [curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality). 
 Significant improvements can be achieved by first mapping the data into a lower-dimensional space. And you
@@ -15,9 +16,7 @@ already have heard about principal component analysis, which is a fantastic meth
 image learning paradigm, principal components obtained from the given images are affectionately
 called the “eigenfaces”.
 
-![Image PCA](https://slideplayer.com/slide/5272361/17/images/32/Face+recognition+%26+detection+using+PCA+v.4a.jpg)
 
-<img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="40%"></img>
 <img src="https://i.postimg.cc/htRqh22v/step1-7.png" width="90%"></img>
 <img src="https://i.postimg.cc/T3jvbns9/step8.png" width="90%"></img>
 
