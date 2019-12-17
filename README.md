@@ -17,7 +17,10 @@ called the “eigenfaces”.
 
 ![Image PCA](https://slideplayer.com/slide/5272361/17/images/32/Face+recognition+%26+detection+using+PCA+v.4a.jpg)
 
-<img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="90%"></img>
+<img src="https://i.postimg.cc/gkZWYCq1/flatten.png" width="40%"></img>
+<img src="https://i.postimg.cc/htRqh22v/step1-7.png" width="90%"></img>
+<img src="https://i.postimg.cc/T3jvbns9/step8.png" width="90%"></img>
+
 
 
 
