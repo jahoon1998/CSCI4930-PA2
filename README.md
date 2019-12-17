@@ -71,5 +71,12 @@ specific set of hyper-parameters.
 Predict the test dataset (from step 2) based on the learned model in step 7, and report Root
 Mean Square Error (RMSE).
 
-
+### Step 9
+From Canvas download the wiki_judge_images.zip (md5sum:
+551a46ee18286824ad03d9110750da01) containing 2001 facial images (1.png, 2.png, …,
+2001.png) of resolution 100x100. You can obtain another meta file, wiki_judgeX.mat
+(md5sum: b7382fd03b8fc05575bb5701c0eec25b) from Canvas containing some information
+about the images. However, the information does not include “age” field. Using your best
+regression model, predict age of each of the 2001 facial image, and prepare a submission.csv
+file
 
